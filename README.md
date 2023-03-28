@@ -8,3 +8,6 @@
 💡 Enthusiastic about technology and always strives to stay up-to-date with the latest trends in the development world.
 
 [![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=arteminthesky)](https://arteminthesky.github.io)
+
+[![CodeWars stats](https://www.codewars.com/users/akiberq/badges/large)](https://www.codewars.com/users/akiberq)
+
